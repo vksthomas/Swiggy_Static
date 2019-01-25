@@ -38,7 +38,7 @@ background-color: white;
   }
 
   .main_body{
-    min-width: 1400;
+    min-width: 1400px;
     height: 340px;
     background-color: #171a29;
     padding-top:80px; 
